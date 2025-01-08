@@ -2,71 +2,73 @@
   <img src="https://your-logo-url.com" alt="Logo" width="150" />
 </p>
 
-<h1 align="center">Hi, I'm Ali Raza 👋</h1>
+<h1 align="center">Hi, I'm M. Rizwan Akram 👋</h1>
 
 <p align="center">
-  With 4 years of experience in software development, my main focus is on Ruby on Rails. I’m also skilled in other frameworks like Laravel and WordPress, and have hands-on experience with several programming languages, including Ruby, PHP, Python, Java, and JavaScript.
+  🚀 **Python Developer** with expertise in building machine learning models and AI solutions, specializing in **Computer Vision**, **NLP**, and **Generative AI**.  
+  💡 Passionate about deploying scalable web applications using **Django** and **REST APIs**, creating end-to-end AI systems, and leveraging **cutting-edge ML techniques** for actionable insights and real-time analytics.  
+  🌟 Focused on exploring **edge computing** and advancing the world of **Generative AI** with impactful projects.  
 </p>
 
 ---
 
-### 💻 Full Stack Developer
-
-#### **Languages**
-![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-
-#### **Full Stack Frameworks**
-- Ruby on Rails
-- WordPress
-- MERN Stack
-- Laravel
-
-#### **Frontend Technologies**
-- HTML5, CSS3
-- JavaScript, TypeScript
-- React, React Router, Redux
-- jQuery, Bootstrap, Tailwind CSS, Semantic UI React
-
-#### **Backend Technologies**
-- Node.js, Express.js
-- FastAPI, GraphQL, Apollo GraphQL
-
-#### **Database Technologies**
-- MySQL, PostgreSQL
-- MongoDB, Redis
-
-#### **Cloud Technologies**
-- Namecheap, AWS, DigitalOcean, Heroku, Netlify
-
-#### **DevOps Technologies**
-- Docker, Apache, Nginx
-
-#### **Tools**
-- GIT, Postman, Insomnia, Jira
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-url)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
-### 📊 GitHub Stats
+### 💻 Tech Stack
 
+#### **Programming Languages**
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
+
+#### **Frontend Technologies**
+- HTML5, CSS3  
+- JavaScript, TypeScript  
+- React, React Router, Redux  
+- jQuery, Bootstrap, Tailwind CSS, Semantic UI React  
+
+#### **Backend Technologies**
+- Django, Flask, FastAPI  
+- Node.js, Express.js  
+- GraphQL, Apollo GraphQL  
+
+#### **Database Technologies**
+- PostgreSQL, MySQL  
+- MongoDB, Redis  
+
+#### **Cloud Technologies**
+- AWS, DigitalOcean, Heroku, Netlify  
+
+#### **DevOps Tools**
+- Docker, Apache, Nginx  
+
+#### **Other Tools**
+- GIT, Postman, Insomnia, Jira  
+
+---
+
+### 🌟 GitHub Highlights
+
+#### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
-
+#### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=monokai&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Inspirational Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
@@ -79,3 +81,9 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=your-github-username&limit=1&theme=radical" alt="Top Contributed Repo" />
 </p>
+
+---
+
+### 📫 Let's Collaborate!
+
+I’m always looking to collaborate on innovative projects and discuss AI, Machine Learning, and software development. Feel free to reach out to me via the links above! 🌟
