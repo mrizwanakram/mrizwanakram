@@ -4,11 +4,18 @@
 
 <h1 align="center">Hi, I'm M. Rizwan Akram 👋</h1>
 
+<p align="center">
+  🚀 <strong>Python Developer</strong> with expertise in building machine learning models and AI solutions, specializing in 
+  <strong>Computer Vision</strong>, <strong>NLP</strong>, and <strong>Generative AI</strong>.
+</p>
 
 <p align="center">
-  🚀 **Python Developer** with expertise in building machine learning models and AI solutions, specializing in **Computer Vision**, **NLP**, and **Generative AI**.  
-  💡 Passionate about deploying scalable web applications using **Django** and **REST APIs**, creating end-to-end AI systems, and leveraging **cutting-edge ML techniques** for actionable insights and real-time analytics.  
-  🌟 Focused on exploring **edge computing** and advancing the world of **Generative AI** with impactful projects.  
+  💡 Passionate about deploying scalable web applications using <strong>Django</strong> and <strong>REST APIs</strong>, creating 
+  end-to-end AI systems, and leveraging <strong>cutting-edge ML techniques</strong> for actionable insights and real-time analytics.
+</p>
+
+<p align="center">
+  🌟 Focused on exploring <strong>edge computing</strong> and advancing the world of <strong>Generative AI</strong> with impactful projects.
 </p>
 
 ---
