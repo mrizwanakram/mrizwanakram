@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" alt="Logo" width="200" />
+  <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" alt="Logo" width="800" />
 </p>
 
 <h1 align="center">Hi, I'm M. Rizwan Akram 👋</h1>
