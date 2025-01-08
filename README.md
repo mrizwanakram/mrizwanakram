@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://your-logo-url.com" alt="Logo" width="150" />
+  <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" alt="Logo" width="200" />
 </p>
 
 <h1 align="center">Hi, I'm M. Rizwan Akram 👋</h1>
+
 
 <p align="center">
   🚀 **Python Developer** with expertise in building machine learning models and AI solutions, specializing in **Computer Vision**, **NLP**, and **Generative AI**.  
