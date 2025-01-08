@@ -58,8 +58,9 @@
 
 #### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizwanakram&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 
 #### 🏆 GitHub Trophies
 <p align="center">
