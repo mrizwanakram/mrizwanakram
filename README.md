@@ -54,10 +54,6 @@
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)](https://www.djangoproject.com/)  
 [![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)](https://flask.palletsprojects.com/)  
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)  
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)](https://nodejs.org/)  
-[![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)](https://expressjs.com/)  
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)](https://graphql.org/)  
-[![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)](https://www.apollographql.com/)  
 
 ---
 #### **AI/ML Technologies**  
