@@ -87,7 +87,6 @@
 [![Seaborn](https://img.shields.io/badge/-Seaborn-yellow?style=flat-square&logo=seaborn)](https://seaborn.pydata.org/)
 [![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly)](https://plotly.com/)
 [![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-red?style=flat-square&logo=sqlalchemy)](https://www.sqlalchemy.org/)
-[![Dask](https://img.shields.io/badge/-Dask-blue?style=flat-square&logo=dask)](https://dask.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-blue?style=flat-square&logo=jupyter)](https://jupyter.org/)
 [![Google Colab](https://img.shields.io/badge/-Google%20Colab-yellow?style=flat-square&logo=googlecolab)](https://colab.research.google.com/)
 [![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau)](https://www.tableau.com/)
@@ -99,22 +98,17 @@
 #### **Database Technologies**  
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org/)  
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)](https://www.mysql.com/)  
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)](https://www.mongodb.com/)  
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)](https://redis.io/)  
 
 ---
 
 #### **Cloud Technologies**  
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)  
-[![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean)](https://www.digitalocean.com/)  
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)](https://www.heroku.com/)  
-[![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify)](https://www.netlify.com/)  
 
 ---
 
 #### **DevOps Tools**  
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)](https://www.docker.com/)  
-[![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache)](https://httpd.apache.org/)  
 [![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx)](https://www.nginx.com/)  
 
 ---
@@ -122,7 +116,6 @@
 #### **Other Tools**  
 [![GIT](https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git)](https://git-scm.com/)  
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)](https://www.postman.com/)  
-[![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia)](https://insomnia.rest/)  
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)](https://www.atlassian.com/software/jira)  
 
 ---
