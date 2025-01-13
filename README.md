@@ -133,7 +133,7 @@ Let me know if you'd like more refinements!
 
 #### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=monokai&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mrizwanakram&theme=monokai&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
