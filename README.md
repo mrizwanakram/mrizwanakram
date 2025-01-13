@@ -24,6 +24,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-rizwan-akram-8795b7216)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/mrizwanakram)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mrizwanoffical786.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=flat-square&logo=google-chrome&logoColor=white)](https://mrizwanakram.github.io/Potfolio.io/)
 
 ---
 
