@@ -108,9 +108,15 @@
 
 ---
 
+Here’s an updated section with more DevOps tools added:
+
+---
+
 #### **DevOps Tools**  
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)](https://www.docker.com/)  
-[![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx)](https://www.nginx.com/)  
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)  
+
 
 ---
 
