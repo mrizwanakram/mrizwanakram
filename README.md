@@ -51,7 +51,7 @@
 
 ---
 
-#### **Backend Technologies**  
+#### **Backend Technologies**
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)](https://www.djangoproject.com/)  
 [![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)](https://flask.palletsprojects.com/)  
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)  
