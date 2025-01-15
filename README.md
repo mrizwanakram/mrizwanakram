@@ -80,7 +80,7 @@
 
 ---
 
-#### **Database Technologies**  
+#### **Data Science Technologies**  
 [![Pandas](https://img.shields.io/badge/-Pandas-green?style=flat-square&logo=pandas)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=numpy)](https://numpy.org/)
 [![SciPy](https://img.shields.io/badge/-SciPy-green?style=flat-square&logo=scipy)](https://www.scipy.org/)
