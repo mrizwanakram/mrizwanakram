@@ -1,167 +1,175 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWo2ZjJiNmtkbXRzeHU5ZnNpejVwc290YmNqbzRiYWp6eWdpYXRtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Logo" width="800" />
-</p>
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=M.%20Rizwan%20Akram&fontSize=60&animation=fadeIn)</div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/m-rizwan-akram-8795b7216">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/mrizwanakram">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:mrizwanoffical786.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://mrizwanakram.github.io/Potfolio.io/">
+    <img src="https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
 
-<h1 align="center">Hi, I'm M. Rizwan Akram 👋</h1>
+<div align="center">
+  <h3>🤖 AI/ML Engineer | 🚀 LLM Specialist | 🌟 Autonomous Agents Developer</h3>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Building+Next-Gen+AI+Systems;Crafting+Autonomous+Agents;Optimizing+LLM+Applications;Pushing+AI+Boundaries)](https://git.io/typing-svg)
+</div>
 
-<p align="center">
-  🚀 <strong>Python Developer</strong> with expertise in building machine learning models and AI solutions, specializing in 
-  <strong>Computer Vision</strong>, <strong>NLP</strong>, and <strong>Generative AI</strong>.
-</p>
+## 🎯 Professional Focus
 
-<p align="center">
-  💡 Passionate about deploying scalable web applications using <strong>Django</strong> and <strong>REST APIs</strong>, creating 
-  end-to-end AI systems, and leveraging <strong>cutting-edge ML techniques</strong> for actionable insights and real-time analytics.
-</p>
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "M. Rizwan Akram"
+        self.role = "AI/ML Engineer"
+        self.language_spoken = ["English", "Urdu"]
+        self.specializations = {
+            "LLM Engineering": ["RAG Systems", "Fine-tuning", "Prompt Engineering"],
+            "AI Agents": ["Multi-Agent Systems", "Autonomous Agents", "Agent Orchestration"],
+            "MLOps": ["Model Deployment", "Monitoring", "Scaling"],
+            "Deep Learning": ["Computer Vision", "NLP", "Multi-Modal AI"]
+        }
+    
+    def current_focus(self):
+        return [
+            "Building Enterprise-grade LLM Applications",
+            "Developing Autonomous AI Agent Systems",
+            "Implementing Advanced RAG Architectures",
+            "Optimizing Large-Scale AI Deployments"
+        ]
 
-<p align="center">
-  🌟 Focused on exploring <strong>edge computing</strong> and advancing the world of <strong>Generative AI</strong> with impactful projects.
-</p>
+```
+
+## 🛠️ Technology Arsenal
+
+### 🧠 Core AI/ML Stack
+<div align="center">
+
+| Category | Technologies |
+|----------|-------------|
+| **Foundation Models** | ![GPT-4](https://img.shields.io/badge/GPT--4-000000?style=flat-square&logo=openai) ![Claude-3](https://img.shields.io/badge/Claude--3-7B68EE?style=flat-square&logo=anthropic) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google) |
+| **LLM Frameworks** | ![LangChain](https://img.shields.io/badge/LangChain-339933?style=flat-square) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF4F64?style=flat-square) ![Haystack](https://img.shields.io/badge/Haystack-0081CB?style=flat-square) |
+| **Vector Stores** | ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square) ![Weaviate](https://img.shields.io/badge/Weaviate-FF6B6B?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-663399?style=flat-square) |
+| **Agent Frameworks** | ![AutoGPT](https://img.shields.io/badge/AutoGPT-FF4F64?style=flat-square) ![BabyAGI](https://img.shields.io/badge/BabyAGI-2496ED?style=flat-square) ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square) |
+
+</div>
+
+### 🚀 MLOps & Infrastructure
+<div align="center">
+
+| Category | Technologies |
+|----------|-------------|
+| **Experiment Tracking** | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow) ![W&B](https://img.shields.io/badge/W&B-FFBE00?style=flat-square&logo=weightsandbiases) |
+| **Model Serving** | ![BentoML](https://img.shields.io/badge/BentoML-000000?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi) |
+| **Orchestration** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes) ![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat-square) |
+| **Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana) |
+
+</div>
+
+## 🌟 Signature Projects
+
+<details>
+<summary>🤖 Enterprise LLM Platform</summary>
+
+- **Tech Stack**: LangChain, Pinecone, FastAPI, React
+- **Features**: 
+  - RAG with multi-vector search
+  - Custom knowledge graph integration
+  - Real-time model performance monitoring
+  - A/B testing framework for prompts
+</details>
+
+<details>
+<summary>🎯 Autonomous Agent Orchestra</summary>
+
+- **Tech Stack**: AutoGPT, LangChain, CrewAI
+- **Features**:
+  - Multi-agent task decomposition
+  - Dynamic agent role assignment
+  - Cross-agent memory sharing
+  - Self-healing error recovery
+</details>
+
+<details>
+<summary>📊 Advanced RAG System</summary>
+
+- **Tech Stack**: LlamaIndex, Weaviate, Django
+- **Features**:
+  - Hybrid search (dense + sparse)
+  - Document preprocessing pipeline
+  - Query optimization
+  - Context window management
+</details>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrizwanakram&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrizwanakram&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+## 🎓 Certifications & Achievements
+
+- 🏆 Advanced LLM Engineering Certification - [Relevant Institution]
+- 🌟 MLOps Professional Certificate - [Platform]
+- 🚀 Top Contributor - Open Source AI Projects
+- 💡 Published Research in [Relevant Field]
+
+## 📚 Latest Blog Posts & Contributions
+
+<!-- BLOG-POST-LIST:START -->
+- [Building Enterprise-Grade RAG Systems](link)
+- [Optimizing LLM Inference at Scale](link)
+- [Multi-Agent Systems: Architecture & Best Practices](link)
+<!-- BLOG-POST-LIST:END -->
+
+## 💼 Professional Experience
+
+<details>
+<summary>🚀 Senior AI Engineer @ [Current Company] (2022 - Present)</summary>
+
+- Led development of enterprise-scale LLM applications
+- Architected multi-agent systems for autonomous task execution
+- Implemented production-grade RAG systems
+- Optimized inference costs by 60%
+</details>
+
+<details>
+<summary>💡 Machine Learning Engineer @ [Previous Company] (2020 - 2022)</summary>
+
+- Developed computer vision solutions for manufacturing
+- Built NLP pipelines for document processing
+- Implemented MLOps practices reducing deployment time by 70%
+</details>
+
+## 🌐 Featured Publications & Talks
+
+- 📝 ["Advanced RAG Architectures"](link) - Technical Blog
+- 🎤 ["Future of AI Agents"](link) - Tech Conference 2023
+- 📚 ["Optimizing LLM Applications"](link) - Industry Journal
+
+## 🤝 Open for Collaboration
+
+I'm particularly interested in collaborating on:
+- 🔬 Research in Multi-Agent Systems
+- 🚀 Enterprise LLM Applications
+- 🌟 Innovative AI Tools
+- 📚 Technical Content Creation
+
+Feel free to reach out if you're working on something exciting!
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-rizwan-akram-8795b7216)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/mrizwanakram)
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mrizwanoffical786.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=flat-square&logo=google-chrome&logoColor=white)](https://mrizwanakram.github.io/Potfolio.io/)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrizwanakram&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</div>
 
----
-
-### 💻 Tech Stack
-
-#### **Programming Languages**
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-
----
-
-#### **Frontend Technologies**  
-[![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)  
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)  
-[![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django)](https://www.djangoproject.com/)
-[![DRF](https://img.shields.io/badge/-Django%20Rest%20Framework-blue?style=flat-square&logo=django)](https://www.django-rest-framework.org/)
-[![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)](https://flask.palletsprojects.com/)
-[![REST API](https://img.shields.io/badge/-REST%20API-orange?style=flat-square&logo=api)](https://www.restapitutorial.com/)
-
----
-
-#### **Backend Technologies**
-[![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)](https://www.djangoproject.com/)  
-[![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)](https://flask.palletsprojects.com/)  
-[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)  
-
----
-#### **AI/ML Technologies**  
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch)](https://pytorch.org/)
-[![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-yellow?style=flat-square&logo=scikit-learn)](https://scikit-learn.org/)
-[![Keras](https://img.shields.io/badge/-Keras-purple?style=flat-square&logo=keras)](https://keras.io/)
-[![OpenAI](https://img.shields.io/badge/-OpenAI-lightgrey?style=flat-square&logo=openai)](https://openai.com/)
-[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-blue?style=flat-square&logo=huggingface)](https://huggingface.co/)
-[![LangChain](https://img.shields.io/badge/-LangChain-yellow?style=flat-square&logo=langchain)](https://www.langchain.com/)
-[![Pinecone](https://img.shields.io/badge/-Pinecone-blue?style=flat-square&logo=pinecone)](https://www.pinecone.io/)
-[![NVIDIA CUDA](https://img.shields.io/badge/-NVIDIA%20CUDA-76B900?style=flat-square&logo=nvidia)](https://developer.nvidia.com/cuda-zone)
-
----
-
-#### **Generative AI Tools**  
-[![OpenAI GPT-4](https://img.shields.io/badge/-OpenAI%20GPT%204-blue?style=flat-square&logo=openai)](https://openai.com/research/)
-[![Stability AI](https://img.shields.io/badge/-Stability%20AI-black?style=flat-square&logo=stabilityai)](https://stability.ai/)
-[![MidJourney](https://img.shields.io/badge/-MidJourney-yellow?style=flat-square&logo=midjourney)](https://www.midjourney.com/)
-[![DALL-E](https://img.shields.io/badge/-DALL-E-orange?style=flat-square&logo=dall-e)](https://openai.com/dall-e)
-[![Google Bard](https://img.shields.io/badge/-Google%20Bard-lightblue?style=flat-square&logo=google)](https://bard.google.com/)
-[![Anthropic Claude](https://img.shields.io/badge/-Claude-lightgreen?style=flat-square&logo=anthropic)](https://www.anthropic.com/)
-
----
-
-#### **Data Science Technologies**  
-[![Pandas](https://img.shields.io/badge/-Pandas-green?style=flat-square&logo=pandas)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=numpy)](https://numpy.org/)
-[![SciPy](https://img.shields.io/badge/-SciPy-green?style=flat-square&logo=scipy)](https://www.scipy.org/)
-[![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat-square&logo=matplotlib)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/-Seaborn-yellow?style=flat-square&logo=seaborn)](https://seaborn.pydata.org/)
-[![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly)](https://plotly.com/)
-[![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-red?style=flat-square&logo=sqlalchemy)](https://www.sqlalchemy.org/)
-[![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-blue?style=flat-square&logo=jupyter)](https://jupyter.org/)
-[![Google Colab](https://img.shields.io/badge/-Google%20Colab-yellow?style=flat-square&logo=googlecolab)](https://colab.research.google.com/)
-[![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau)](https://www.tableau.com/)
-[![Power BI](https://img.shields.io/badge/-Power%20BI-orange?style=flat-square&logo=powerbi)](https://powerbi.microsoft.com/)
-
----
-
-
-#### **Database Technologies**  
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org/)  
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)](https://www.mysql.com/)  
-[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)](https://redis.io/)  
-
----
-
-#### **Cloud Technologies**  
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)  
-
----
-
-Here’s an updated section with more DevOps tools added:
-
----
-
-#### **DevOps Tools**  
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)](https://www.docker.com/)  
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
-[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)  
-
-
----
-
-#### **Other Tools**  
-[![GIT](https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git)](https://git-scm.com/)  
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)](https://www.postman.com/)  
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)](https://www.atlassian.com/software/jira)  
-
----
-
-Let me know if you'd like more refinements!
----
-
-### 🌟 GitHub Highlights
-
-#### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizwanakram&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-
-#### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrizwanakram&theme=monokai&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-### ✍️ Inspirational Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
----
-
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rizwanakram&limit=1&theme=radical" alt="Top Contributed Repo" />
-</p>
-
----
-
-### 📫 Let's Collaborate!
-
-I’m always looking to collaborate on innovative projects and discuss AI, Machine Learning, and software development. Feel free to reach out to me via the links above! 🌟
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
