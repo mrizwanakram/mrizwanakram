@@ -142,56 +142,6 @@ class AIEngineer:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrizwanakram&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## 🎓 Certifications & Achievements
-
-- 🏆 Advanced LLM Engineering Certification - [Relevant Institution]
-- 🌟 MLOps Professional Certificate - [Platform]
-- 🚀 Top Contributor - Open Source AI Projects
-- 💡 Published Research in [Relevant Field]
-
-## 📚 Latest Blog Posts & Contributions
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Enterprise-Grade RAG Systems](link)
-- [Optimizing LLM Inference at Scale](link)
-- [Multi-Agent Systems: Architecture & Best Practices](link)
-<!-- BLOG-POST-LIST:END -->
-
-## 💼 Professional Experience
-
-<details>
-<summary>🚀 Senior AI Engineer @ [Current Company] (2022 - Present)</summary>
-
-- Led development of enterprise-scale LLM applications
-- Architected multi-agent systems for autonomous task execution
-- Implemented production-grade RAG systems
-- Optimized inference costs by 60%
-</details>
-
-<details>
-<summary>💡 Machine Learning Engineer @ [Previous Company] (2020 - 2022)</summary>
-
-- Developed computer vision solutions for manufacturing
-- Built NLP pipelines for document processing
-- Implemented MLOps practices reducing deployment time by 70%
-</details>
-
-## 🌐 Featured Publications & Talks
-
-- 📝 ["Advanced RAG Architectures"](link) - Technical Blog
-- 🎤 ["Future of AI Agents"](link) - Tech Conference 2023
-- 📚 ["Optimizing LLM Applications"](link) - Industry Journal
-
-## 🤝 Open for Collaboration
-
-I'm particularly interested in collaborating on:
-- 🔬 Research in Multi-Agent Systems
-- 🚀 Enterprise LLM Applications
-- 🌟 Innovative AI Tools
-- 📚 Technical Content Creation
-
-Feel free to reach out if you're working on something exciting!
-
 ---
 
 <div align="center">
