@@ -135,6 +135,76 @@ class AIEngineer:
   - Context window management
 </details>
 
+## 🚀 Featured Projects
+
+<details>
+<summary>🤖 Advanced Conversational AI System</summary>
+
+- **Tech Stack**: LangChain, Vector DB, FastAPI, React
+- **Key Features**: 
+  - Dynamic context tracking and state management
+  - Multi-language support (English & Arabic)
+  - Edge case handling and error management
+  - Real-time response optimization
+</details>
+
+<details>
+<summary>👁️ Real-Time Object Detection on Edge</summary>
+
+- **Tech Stack**: MobileNet, NVIDIA Jetson Nano, TensorFlow
+- **Key Features**: 
+  - Edge-optimized MobileNet deployment
+  - Real-time processing capabilities
+  - Resource-efficient implementation
+  - Performance optimization for edge devices
+</details>
+
+<details>
+<summary>🛍️ E-Commerce Platform</summary>
+
+- **Tech Stack**: Django, DRF, PostgreSQL, Bootstrap
+- **Key Features**: 
+  - Full user authentication system
+  - Product management and cart functionality
+  - RESTful API implementation
+  - Responsive UI/UX design
+</details>
+
+<details>
+<summary>🏪 Automated Retail System (ARS)</summary>
+
+- **Tech Stack**: Raspberry Pi, OpenCV, AWS S3, Python
+- **Key Features**: 
+  - Automated receipt generation
+  - Computer vision for product detection
+  - Cloud storage integration
+  - Real-time sales processing
+</details>
+
+<details>
+<summary>📄 AI Resume Screening System</summary>
+
+- **Tech Stack**: NLP, Vector Search, Django, React
+- **Key Features**: 
+  - Advanced multi-filter search functionality
+  - AI-powered resume-job matching
+  - Bulk PDF processing with validation
+  - Intuitive recruiter interface
+</details>
+
+## 🎓 Education & Certifications
+
+### Training & Courses
+- **Deep Learning** - Al-Khawarizmi Institute of Computer Science (KICS), UET Lahore *(07/2022 – 10/2022)*
+- **Machine Learning** - Corvit Systems Lahore
+- **Data Analytics & Business Intelligence** - DigiSkills
+
+### Professional Certifications
+- **Huawei Cloud Computing Certificate**
+  - Expertise in cloud infrastructure and services
+- **Huawei Artificial Intelligence Certificate**
+  - Advanced AI and machine learning proficiency
+
 ## 📈 GitHub Analytics
 
 <div align="center">
