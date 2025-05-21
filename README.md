@@ -100,41 +100,6 @@ class AIEngineer:
 
 </div>
 
-## 🌟 Signature Projects
-
-<details>
-<summary>🤖 Enterprise LLM Platform</summary>
-
-- **Tech Stack**: LangChain, Pinecone, FastAPI, React
-- **Features**: 
-  - RAG with multi-vector search
-  - Custom knowledge graph integration
-  - Real-time model performance monitoring
-  - A/B testing framework for prompts
-</details>
-
-<details>
-<summary>🎯 Autonomous Agent Orchestra</summary>
-
-- **Tech Stack**: AutoGPT, LangChain, CrewAI
-- **Features**:
-  - Multi-agent task decomposition
-  - Dynamic agent role assignment
-  - Cross-agent memory sharing
-  - Self-healing error recovery
-</details>
-
-<details>
-<summary>📊 Advanced RAG System</summary>
-
-- **Tech Stack**: LlamaIndex, Weaviate, Django
-- **Features**:
-  - Hybrid search (dense + sparse)
-  - Document preprocessing pipeline
-  - Query optimization
-  - Context window management
-</details>
-
 ## 🚀 Featured Projects
 
 <details>
