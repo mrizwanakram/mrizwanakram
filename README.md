@@ -103,14 +103,30 @@ class AIEngineer:
 ## 🚀 Featured Projects
 
 <details>
-<summary>🤖 Advanced Conversational AI System</summary>
+<summary>🤖 Hotel Tech Procurement Advisor Chatbot</summary>
 
-- **Tech Stack**: LangChain, Vector DB, FastAPI, React
+- **Tech Stack**: GPT-4, Neo4j, Django, OpenAI API, React
 - **Key Features**: 
-  - Dynamic context tracking and state management
+  - Custom knowledge graph integration with Neo4j
+  - Real-time response streaming architecture
   - Multi-language support (English & Arabic)
+  - Dynamic Cypher query generation
+  - Robust conversation history management
   - Edge case handling and error management
-  - Real-time response optimization
+
+- **Technical Highlights**:
+  - Implemented custom knowledge graph database for hotel tech solutions
+  - Built real-time streaming responses using Django channels
+  - Developed context-aware conversation management system
+  - Created dynamic query generation logic for Neo4j
+  - Integrated multi-language support with automatic language detection
+  - Designed comprehensive error handling and recovery system
+
+- **Impact & Results**:
+  - Enhanced procurement decision-making process
+  - Seamless bilingual user experience
+  - Robust and reliable system performance
+  - Contextually accurate product recommendations
 </details>
 
 <details>
